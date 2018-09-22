@@ -19,14 +19,14 @@ npm run prod
 └─src                                      // src 文件夹
 │    ├─pages                               // 页面文件夹
 │    │  ├─font
-│    │  │      font.html
-│    │  │      font.css
-│    │  │	   font.js
+│    │  │   ├─font.html
+│    │  │   ├─font.css
+│    │  │	├─font.js
 │    │  │
 │    │  └─layout
-│              layout.css
-│              layout.html
-│    	       layout.js
+│    │      ├─layout.css
+│    │      ├─layout.html
+│    │      ├─layout.js
 └─build                                      // build 文件夹
 │    ├─webpack.config.dev.js            // 开发环境的webpack配置文件
 │    ├─webpack.config.prod.js           // 生产环境的webpack配置文件
