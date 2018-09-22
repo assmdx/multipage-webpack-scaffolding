@@ -21,7 +21,7 @@ npm run prod
 │    │  ├─font
 │    │  │   ├─font.html
 │    │  │   ├─font.css
-│    │  │	├─font.js
+│    │  │   ├─font.js
 │    │  │
 │    │  └─layout
 │    │      ├─layout.css
