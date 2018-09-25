@@ -58,6 +58,6 @@ npm run prod
         html: 'layout/layout.html',
         jsEntry: 'layout/layout.js'
     }
-]
+  ]
 ```
 
